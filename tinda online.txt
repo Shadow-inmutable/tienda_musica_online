@@ -1,0 +1,8 @@
+sistema de ventas de musica onine
+
+describir el comportamiento de una app de musica
+
+usuarios compraran creditos para adquirir canciones
+buscar canciones registrar la informacion de los ususarios y pagar con creditos
+el sistema debe almacenar informacion sobre las canciones que se pueden adquirir y su precio en creditos
+el sistema debera sugerir canciones acorde a los intereses del usuario
